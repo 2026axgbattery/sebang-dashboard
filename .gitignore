@@ -1,0 +1,13 @@
+# 가상환경
+.venv/
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+
+# 비밀 정보 (Community Cloud에서는 앱 설정의 Secrets 메뉴에 입력)
+.streamlit/secrets.toml
+.env
+
+# OS / 에디터
+.DS_Store
